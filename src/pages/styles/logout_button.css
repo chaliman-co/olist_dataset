@@ -1,0 +1,9 @@
+.logout-button::after {
+    clear: both;
+    content: "";
+    display: block;
+}
+.logout-button button {
+    float: right;
+    width: 150px;
+}
